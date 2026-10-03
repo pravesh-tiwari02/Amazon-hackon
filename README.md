@@ -1,1 +1,1 @@
-# Dino-solver-using-Q-learning
+Amazon hackon 
