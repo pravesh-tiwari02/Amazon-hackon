@@ -3,7 +3,7 @@
 ### Team Name: ASH  
 ### Team Members:
 - Aryaman  
-- Harsh Upadhyay  
+- Pravesh
 
 ### Website:  
 [Amazon-Green](https://amazongreen.vercel.app)
